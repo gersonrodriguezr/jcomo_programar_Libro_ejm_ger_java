@@ -13,7 +13,8 @@ public class Fig2_1_Bienvenido1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Bienvenido a la programacion en Java");
+        System.out.println("Bienvenido a la programacion en Java ");
+        System.out.println("GERR");
     }
     
 }
