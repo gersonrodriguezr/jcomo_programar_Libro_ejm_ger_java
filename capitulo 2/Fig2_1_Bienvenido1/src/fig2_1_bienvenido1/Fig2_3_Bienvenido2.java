@@ -15,7 +15,7 @@ public class Fig2_3_Bienvenido2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Bienvenido a ");
+        System.out.print("Bienvenido a ");
         System.out.println("Programación en Java");
     }
     
