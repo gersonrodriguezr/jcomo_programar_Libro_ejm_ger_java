@@ -14,6 +14,7 @@ public class Fig2_6_Bienvenido4 {
      */
     public static void main(String[] args) {
         System.out.printf("%s\n%s\n","Bienvenido","A la programación en Java");
+        System.out.println("hola");
     }
     
 }
