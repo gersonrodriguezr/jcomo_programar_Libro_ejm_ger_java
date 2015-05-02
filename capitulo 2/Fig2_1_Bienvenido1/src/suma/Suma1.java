@@ -33,6 +33,9 @@ public class Suma1 {
         System.out.printf("La suma es:%d\n",suma);
         
         
+        System.out.println("usando 'System.out.print' suma = " + numero1 + numero2 );//Es necesario usar parentesis
+        System.out.printf("usando 'System.out.printf' = %d", numero1+numero2 );
+        
     }
     
 }
