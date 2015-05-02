@@ -18,7 +18,9 @@ public class Suma1 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         
-        int numero1, numero2, numero3, suma;
+        int numero1,
+            numero2,
+            suma;
         
         System.out.println("Escriba el primer entero:");
         numero1 = entrada.nextInt();
