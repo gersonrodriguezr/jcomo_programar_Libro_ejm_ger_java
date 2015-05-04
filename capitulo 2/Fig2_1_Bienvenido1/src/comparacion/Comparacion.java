@@ -1,5 +1,5 @@
 /*
- * Comparación, usando if
+ * Comparación, usando if - del libro java 9ed
  */
 package comparacion;
 
